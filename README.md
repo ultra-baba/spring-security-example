@@ -1,4 +1,4 @@
-Example for Using Spring Security.
+Example for Using Spring Security. https://lotabout.me/2019/Token-Authentication-via-Spring-Security/
 
 ## Highlights
 
